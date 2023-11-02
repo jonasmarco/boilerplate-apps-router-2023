@@ -2126,7 +2126,7 @@
     remark-slug "^6.0.0"
     ts-dedent "^2.0.0"
 
-"@storybook/addon-essentials@^7.4.6":
+"@storybook/addon-essentials@^7.5.2":
   version "7.5.2"
   resolved "https://registry.yarnpkg.com/@storybook/addon-essentials/-/addon-essentials-7.5.2.tgz#bccf8ba98e2541e421d68b9d8abd0d8c54dcba13"
   integrity sha512-bN7Q+8J3xVgNoBKCwtyX1O5jXuuJavYdAPiPQGrt6YegUi3gVfr5n/+/mNlu6Fd5AThFcVFei6gS9aiYmU/h8g==
@@ -2155,7 +2155,7 @@
     "@storybook/global" "^5.0.0"
     "@storybook/preview-api" "7.5.2"
 
-"@storybook/addon-interactions@^7.4.6":
+"@storybook/addon-interactions@^7.5.2":
   version "7.5.2"
   resolved "https://registry.yarnpkg.com/@storybook/addon-interactions/-/addon-interactions-7.5.2.tgz#187d307f3c790a0bcdbbaae938c35966903d333c"
   integrity sha512-upddA+pvJtU3pRZqu3Chl5QbVfVv2eCIuUxaAG9rvasaqkLTTrNvna8rmnXwqL8sBKHL1XzSyO2sQF4vzQwymg==
@@ -2174,7 +2174,7 @@
     polished "^4.2.2"
     ts-dedent "^2.2.0"
 
-"@storybook/addon-links@^7.4.6":
+"@storybook/addon-links@^7.5.2":
   version "7.5.2"
   resolved "https://registry.yarnpkg.com/@storybook/addon-links/-/addon-links-7.5.2.tgz#4b1747f70ca284faafe69aed8db15504079a8bbe"
   integrity sha512-IhUYNOJQYJd8Cnb93l8egnGCGhHV0VHo6HmZT9YjBVuUtetGQbW8Eoh0pQwuklUrJ3jLPwMoKFhN1irQXJjZwQ==
@@ -2252,7 +2252,7 @@
     memoizerific "^1.11.3"
     prop-types "^15.7.2"
 
-"@storybook/blocks@7.5.2", "@storybook/blocks@^7.4.6":
+"@storybook/blocks@7.5.2", "@storybook/blocks@^7.5.2":
   version "7.5.2"
   resolved "https://registry.yarnpkg.com/@storybook/blocks/-/blocks-7.5.2.tgz#625105555911ebb1415a3e5f4aeedf38e608a340"
   integrity sha512-Tf6XE/YcnWQVBJRcJWJzhkahjSymv6QZuxMAiKFD8v48QRJ8kTxz1tBN9676Ux+l1WwtVWxwvd/0kRKKxE70wQ==
@@ -2650,7 +2650,7 @@
   resolved "https://registry.yarnpkg.com/@storybook/mdx2-csf/-/mdx2-csf-1.1.0.tgz#97f6df04d0bf616991cc1005a073ac004a7281e5"
   integrity sha512-TXJJd5RAKakWx4BtpwvSNdgTDkKM6RkXU8GK34S/LhidQ5Pjz3wcnqb0TxEkfhK/ztbP8nKHqXFwLfa2CYkvQw==
 
-"@storybook/nextjs@^7.4.6":
+"@storybook/nextjs@^7.5.2":
   version "7.5.2"
   resolved "https://registry.yarnpkg.com/@storybook/nextjs/-/nextjs-7.5.2.tgz#06bd155107f98944de6380b38861ae7fd2a2f26e"
   integrity sha512-dpc85lG15cZCWOwKn7bhvU/QhQcxHM0f7lGjfSNnXweoYiSoR6L+5e4C0NX9oWgPlaP3zWAZXXdIKqQ/3U3jeQ==
@@ -2770,7 +2770,7 @@
   resolved "https://registry.yarnpkg.com/@storybook/react-dom-shim/-/react-dom-shim-7.5.2.tgz#0f937849d2e208d40e7086bd4e872670184f328d"
   integrity sha512-x7h3TTLRLs8mrsCBKXbvjBRFms73XrNlm0Lo5Tu/Tf//+pwOFq+2sGBkqbRkYd54jNHhpqNF7+UUdzA93ESnbQ==
 
-"@storybook/react@7.5.2", "@storybook/react@^7.4.6":
+"@storybook/react@7.5.2", "@storybook/react@^7.5.2":
   version "7.5.2"
   resolved "https://registry.yarnpkg.com/@storybook/react/-/react-7.5.2.tgz#42afff95f8ff65d404282336a018c1fb59a5f2fa"
   integrity sha512-7X8GtqvRjWmVS112ifChJMxfD15rMVg5m3t6apZqi0uui1S/DImAveHwz8M4FhsElW6MIHs5xK0uJhR9rVQgTA==
@@ -5853,7 +5853,7 @@ eslint-plugin-react@^7.33.2:
     semver "^6.3.1"
     string.prototype.matchall "^4.0.8"
 
-eslint-plugin-storybook@^0.6.14:
+eslint-plugin-storybook@^0.6.15:
   version "0.6.15"
   resolved "https://registry.yarnpkg.com/eslint-plugin-storybook/-/eslint-plugin-storybook-0.6.15.tgz#8a091605b0a90974ec8e62d8112db6c4bd3a6faa"
   integrity sha512-lAGqVAJGob47Griu29KXYowI4G7KwMoJDOkEip8ujikuDLxU+oWJ1l0WL6F2oDO4QiyUFXvtDkEkISMOPzo+7w==
@@ -10400,7 +10400,7 @@ store2@^2.14.2:
   resolved "https://registry.yarnpkg.com/store2/-/store2-2.14.2.tgz#56138d200f9fe5f582ad63bc2704dbc0e4a45068"
   integrity sha512-siT1RiqlfQnGqgT/YzXVUNsom9S0H1OX+dpdGN1xkyYATo4I6sep5NmsRD/40s3IIOvlCq6akxkqG82urIZW1w==
 
-storybook@^7.4.6:
+storybook@^7.5.2:
   version "7.5.2"
   resolved "https://registry.yarnpkg.com/storybook/-/storybook-7.5.2.tgz#73cb6e4f607be09e5000a8d4c7d21d9ed42dcacb"
   integrity sha512-wuB5VdmI6teU2z5iiBEZ2ziNeP6g6Da/dGM7+tWQVUl8bmfOmpEgzgEyS1/XqdOfm+HoZplspwM0XMHOLo/Now==
